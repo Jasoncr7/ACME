@@ -75,7 +75,7 @@ nav a:hover{
 }
 .form input{
     border-radius: 5px;
-    width: 65%;
+    width: 58%;
     padding: 2%;
     background-color: transparent;
     color: white;
@@ -115,7 +115,7 @@ footer{
         font-weight: 1900;
     }
     .form input{
-        width: 50%;
+        width: 45%;
     }
     .form{
         margin-left: 0%;
