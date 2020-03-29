@@ -75,14 +75,14 @@ nav a:hover{
 }
 .form input{
     border-radius: 5px;
-    width: 58%;
+    width: 45%;
     padding: 2%;
     background-color: transparent;
     color: white;
     transition: 0.6s;
 }
 .form input:hover{
-    width: 67%;
+    width: 52%;
 }
 button{
     width: 20%;
@@ -115,7 +115,7 @@ footer{
         font-weight: 1900;
     }
     .form input{
-        width: 45%;
+        width: 40%;
     }
     .form{
         margin-left: 0%;
