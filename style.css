@@ -127,3 +127,8 @@ footer{
         padding-top: 2%;
     }
 }
+@media (max-width: 200px){
+    .text h1{
+        font-size: 14.5pt;
+    }
+}
