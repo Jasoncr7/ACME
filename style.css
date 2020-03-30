@@ -21,7 +21,7 @@ nav{
 }
 nav a{
     text-decoration: none;
-    font-size: 18.5pt;
+    font-size: 14pt;
     padding-left: 20px;
     color: white;
 }
@@ -41,6 +41,7 @@ nav a:hover{
 .landing p,h1{
     color: white;
     font-weight: 900;
+    font-size: 0.5rem;
 }
 .landing h1{
     font-size: 24pt;
@@ -57,6 +58,7 @@ nav a:hover{
     padding-top: 5%;
     padding-bottom: 5%;
     color: white;
+    font-size: 14.5pt;
 }
 .newsletter{
     padding-top: 2%;
