@@ -60,10 +60,7 @@ nav a:hover{
     padding-top: 8%;
     padding-bottom: 8%;
     color: white;
-    font-size: 14.5pt;
-}
-.txt{
-    font-size: 11.5px;
+    font-size: 13px;
 }
 .newsletter{
     padding-top: 2%;
@@ -133,5 +130,8 @@ footer{
     }
     .css{
         padding-top: 2%;
+    }
+    #services{
+        font-size: 21pt;
     }
 }
